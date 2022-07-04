@@ -1,13 +1,7 @@
 {
   "id": 1,
   "name": "aaaaa",
-  "username": "bbbbb",
+  "number": "123456789",
   "email": "blabla@blabla.com",
-  "address": {
-    "street": "cccc",
-    "zipcode": "92998-3874",
-    "geo": {
-      "lat": "-37.3159",
-      "lng": "81.1496"
-    }
+  "url": "www.lalala.com"
 }
