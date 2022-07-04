@@ -2,7 +2,7 @@
   "id": 1,
   "name": "aaaaa",
   "username": "bbbbb",
-  "email": "Sincere@april.biz",
+  "email": "blabla@blabla.com",
   "address": {
     "street": "cccc",
     "zipcode": "92998-3874",
@@ -10,11 +10,4 @@
       "lat": "-37.3159",
       "lng": "81.1496"
     }
-  },
-  "phone": "1-770-736-8031 x56442",
-  "company": {
-    "name": "zzzz",
-    "catchPhrase": "asdasdasd",
-    "bs": "fasdfsdafsda"
-  }
 }
