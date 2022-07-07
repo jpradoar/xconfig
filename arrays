@@ -1,4 +1,3 @@
 myArray[0] = 42;
 myArray[1] = 42.5;
-myArray[2] = 99;
-myArray[3] = 111;
+myArray[2] = 222;
